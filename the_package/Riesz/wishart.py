@@ -1,19 +1,13 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[6]:
-
 
 import math
-import scipy as sp
 import numpy as np
-import pandas as pd
-import matplotlib.pyplot as plt
 from functools import reduce
 from operator import mul
 
 
-# In[185]:
 
 
 class wishart:

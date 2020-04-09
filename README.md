@@ -1,4 +1,4 @@
-# Wishart and Riesz distributions on general convex cones.
+# Wishart and Riesz distributions.
 
 ## Description
 This project aims to create  *Python* and *R* packages for Wishart and Riesz distributions on general convex cones. This will include graphical Wishart and Riesz distributions. The Wishart distribution is a matrix-variate equivalent of the gamma distribution.
@@ -10,10 +10,10 @@ analysis.
 
 The objectives are the following:
 
-*Calculation of mean, covariance, correlation and probability density functions.
-*Calculation of characteristic and gamma functions of the associated cones.
-*Fitting Wishart and Riesz distributions
-*Simulation of Wishart and Riesz distributions.
+* Calculation of mean, covariance, correlation and probability density functions.
+* Calculation of characteristic and gamma functions of the associated cones.
+* Fitting Wishart and Riesz distributions
+* Simulation of Wishart and Riesz distributions.
 
 
 ## Software requirements

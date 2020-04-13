@@ -1,0 +1,5 @@
+sigma=np.linalg.inv(np.array([[4,3],[1,25]]))
+print(sigma)
+wishart1 = wishart(2,4,sigma)
+print(wishart1.covariance)
+print(wishart1.correlation)
